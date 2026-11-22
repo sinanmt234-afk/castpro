@@ -1,0 +1,7 @@
+<resources>
+  <style name="Theme.CastPro" parent="android:Theme.Material.NoActionBar">
+    <item name="android:windowBackground">#161B2F</item>
+    <item name="android:statusBarColor">#161B2F</item>
+    <item name="android:navigationBarColor">#161B2F</item>
+  </style>
+</resources>
